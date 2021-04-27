@@ -1,7 +1,7 @@
 
 <br>
 <h1>rewon</h1>
-<a href=" https://discord.gg/B9uBrGT4Q6"> <img width="500" src="https://camo.githubusercontent.com/e963d4372a4a9b29118efbae3064d86458da547842c4bf12d160d99584365119/68747470733a2f2f73342e67696679752e636f6d2f696d616765732f7374616e64617264626164643937313265303035646330642e676966" align="right"/>
+<a href=" https://discord.gg/B9uBrGT4Q6"> <img width="500" src="https://cdn.discordapp.com/attachments/806447857686020096/808672589328285706/standard_1.gif" align="right"/>
 
 
 <br> 
