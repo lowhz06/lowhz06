@@ -1,5 +1,3 @@
-![rewonSavage](https://cdn.discordapp.com/attachments/785824829197910029/822215060658192444/githubprofilfavi.png)
-
 
 <br>
 <h1>rewon</h1>
@@ -24,7 +22,7 @@
 
 ## 🍁 Statistics;
 <p align="center">
-  <a href="https://github.com/favixl">
+  <a href="https://github.com/rewonSavage">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favixl&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=favixl&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
@@ -35,9 +33,7 @@
 
 ## 🕊 Discord:
 
-  <div align="center"><img href="https://github.com/Maze-Development" src="https://discord.c99.nl/widget/theme-2/356106336146292736.png"></div>
-
 <p align="center">
-<a href="https://discord.gg/yfVrgXJVbm">
+<a href=" https://discord.gg/B9uBrGT4Q6">
     <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
