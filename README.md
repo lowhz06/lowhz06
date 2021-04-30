@@ -24,7 +24,6 @@
 <p align="center">
   <a href="https://github.com/rewonSavage">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewonSavage&layout=compact&theme=material-palenight&langs_count=12" />
-	  <img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewonSavage" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rewonSavage&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewonSavage" alt="rewonSavage" /> </p>
