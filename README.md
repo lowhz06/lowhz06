@@ -1,7 +1,6 @@
 
 <br>
 <h1>rewon</h1>
-<a href=" https://discord.gg/B9uBrGT4Q6"> <img width="500" src="https://cdn.discordapp.com/attachments/806447857686020096/808672589328285706/standard_1.gif" align="right"/>
 
 
 <br> 
@@ -33,11 +32,10 @@
 
 ## 🕊 Discord:
   <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/723980580634493059.png"></div>
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/855353076415725601.png"></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rewonSavage" alt="rewonSavage" /></a> </p>
 
 <p align="center">
-<a href=" https://discord.gg/B9uBrGT4Q6">
     <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
