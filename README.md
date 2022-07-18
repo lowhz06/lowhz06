@@ -37,5 +37,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rewonSavage" alt="rewonSavage" /></a> </p>
 
 <p align="center">
+	<img src="https://api.ravencode.live/v1/users/818107220566343682/embed">
     <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
