@@ -38,4 +38,7 @@
 
 <p align="center">
 	<img src="https://api.ravencode.live/v1/users/818107220566343682/embed">
+	<img src="https://api.ravencode.live/v1/users/818107220566343682/embed?theme=light">
+<img src="https://api.ravencode.live/v1/users/818107220566343682/embed?theme=dark&width=400">
+<img src="https://api.ravencode.live/v1/users/818107220566343682/embed?width=600&height=350">
   </a>
