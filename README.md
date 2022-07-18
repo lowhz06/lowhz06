@@ -31,10 +31,7 @@
 
 ## 🕊 Discord:
   <p align="center">
-  <div align="center"><img src="https://api.ravencode.live/v1/users/855353076415725601/embed">
-	  <img src="https://api.ravencode.live/v1/users/855353076415725601/embed?theme=light">
-<img src="https://api.ravencode.live/v1/users/855353076415725601/embed?theme=dark&width=400">
-<img src="https://api.ravencode.live/v1/users/855353076415725601/embed?width=600&height=350"></div>
+  <div align="center"><img src=https://discord.c99.nl/widget/theme-3/855353076415725601.png></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowhz06" alt="lowhz06" /></a> </p>
 
