@@ -21,7 +21,7 @@
 
 ## 🍁 Statistics;
 <p align="center">
-  <a href="https://github.com/rewonSavage">
+  <a href="https://github.com/lowhz06">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewonSavage&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rewonSavage&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
