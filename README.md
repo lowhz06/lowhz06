@@ -34,7 +34,7 @@
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/855353076415725601.png"></div>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rewonSavage" alt="rewonSavage" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowhz06" alt="lowhz06" /></a> </p>
 
 <p align="center">
 	<img src="https://api.ravencode.live/v1/users/818107220566343682/embed">
