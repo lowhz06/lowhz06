@@ -31,7 +31,7 @@
 
 ## 🕊 Discord:
   <p align="center">
-  <div align="center"><img src=(https://lanyard.cnrad.dev/api/681018545185751053)](https://discord.com/users/681018545185751053)></div>
+  <div align="center"><img src= https://lanyard.cnrad.dev/api/681018545185751053 https://discord.com/users/681018545185751053></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowhz06" alt="lowhz06" /></a> </p>
 
