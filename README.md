@@ -1,14 +1,8 @@
 <br>
-<h1>lowhz</h1>
+<h1>turkoscammer</h1>
 
 
 <br> 
-
-- 🌱 designer  <br/>
-
-### About me;
-	
-	Hi, I am a young designer
 
 ### Languages and Tools;
 
